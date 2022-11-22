@@ -9,7 +9,7 @@
     "drei": "^0.0.60",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-spring": "^8.0.27",
     "react-three-fiber": "^4.2.10",
     "sass": "^1.26.8",
